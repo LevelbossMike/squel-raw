@@ -11,8 +11,16 @@
     "squel",
     "mod-mysql-postgresql"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LevelbossMike/squel-raw"
+  },
   "author": "Michael Klein",
   "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/LevelbossMike/squel-raw/issues"
+  },
+  "homepage": "https://github.com/LevelbossMike/squel-raw",
   "dependencies": {
     "squel": "^3.7.0"
   },
