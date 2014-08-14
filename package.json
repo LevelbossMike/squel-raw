@@ -1,0 +1,23 @@
+{
+  "name": "squel-raw",
+  "version": "0.0.1",
+  "description": "Extension to squel to create raw sql-statements to use with mod-mysql-postgresql",
+  "main": "squel-raw.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "vert.x",
+    "squel",
+    "mod-mysql-postgresql"
+  ],
+  "author": "Michael Klein",
+  "license": "MIT",
+  "dependencies": {
+    "squel": "^3.7.0"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^1.21.4"
+  }
+}
