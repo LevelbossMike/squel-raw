@@ -8,7 +8,7 @@ vert.x-module directly.
 
 To use this in your code you simply require squel-raw instead of squel.
 
-```
+```js
 var squel = require('squel-raw')
   .useFlavour(<flavorToUse>);
 

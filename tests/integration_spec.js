@@ -9,7 +9,7 @@ describe('squel-raw', function() {
       var expected = {
         "action": "raw",
         "command": "SELECT * FROM table;"
-      }
+      };
 
       expect(actual).to.eql(expected);
     });
